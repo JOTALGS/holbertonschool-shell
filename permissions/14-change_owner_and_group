@@ -1,0 +1,2 @@
+#!/bin/bash
+find /root/holbertonschool-shell/permissions -exec chown vincent:staff {} \+
